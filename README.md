@@ -57,7 +57,7 @@ pnpm build
 - [x] autocorrect
 - [x] spellcheck
 - [x] markdownlint
-- [ ] 搜索引擎收录
+- [x] 搜索引擎收录
   - [x] 谷歌
   - [x] 必应
   - [ ] 百度，没有备案没有提交 sitemap 额度
